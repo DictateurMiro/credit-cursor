@@ -68,6 +68,10 @@ credit
 - Configuration paths are automatically detected based on your OS (Windows, Mac, Linux).
 - Errors are displayed to help with troubleshooting.
 
+## 🙏 Credits
+
+This project is inspired by [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip).
+
 ## 📄 License
 
 This project is open-source and free to use and modify.
